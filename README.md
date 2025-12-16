@@ -32,7 +32,7 @@ Este proyecto permite la gestión de inscripciones de estudiantes a diversas car
 
 1. Clona este repositorio.
    ```bash
-   git clone https://github.com/nahuquiroga/Equipo-7-SQLAlchemy.git
+   git clone https://github.com/MarcosHerrera95/Gestion-Inscripciones.git
    ```
    
 2. Instala las dependencias.
